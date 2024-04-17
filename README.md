@@ -2,7 +2,7 @@
 
 To estimate the parameters of the model, we adapt an algorithm proposed by Anderson (1973). The log-likelihood for the linear spatial t-Student model is given by:
 
-[ \mathcal{L}(\theta) = \log(K_n(\eta)) - \frac{1}{2} \log(|\Sigma|) - \frac{1}{2\eta} (1 + n\eta) \log(1 + c(\eta) \delta) \quad (4.4) ]
+[\mathcal{L}(\theta) = \log(K_n(\eta)) - \frac{1}{2} \log(|\Sigma|) - \frac{1}{2\eta} (1 + n\eta) \log(1 + c(\eta) \delta) \quad (4.4) ]
 
 where:
 
